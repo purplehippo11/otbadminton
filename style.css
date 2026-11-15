@@ -1,0 +1,67 @@
+body {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  font-family: "Lexend", sans-serif;
+}
+
+.navbar {
+  font-family: "Lexend", sans-serif;
+  font-size: 18px;
+  padding: 15px;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: #5a2d82;
+}
+
+.heading {
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #5a2d82;
+  margin-bottom: 16px;
+}
+
+.subheading {
+  font-weight: 600;
+  text-align: center;
+  color: #5a2d82;
+  margin: 10px 0;
+}
+
+.btn-primary {
+  --bs-btn-bg: #5a2d82;
+  --bs-btn-border-color: #5a2d82;
+  --bs-btn-hover-bg: #472266;
+  --bs-btn-hover-border-color: #472266;
+  --bs-btn-active-bg: #472266;
+  --bs-btn-active-border-color: #472266;
+  --bs-btn-disabled-bg: #5a2d82;
+  --bs-btn-disabled-border-color: #5a2d82;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #5a2d82;
+  --bs-btn-border-color: #5a2d82;
+  --bs-btn-hover-bg: #5a2d82;
+  --bs-btn-hover-border-color: #5a2d82;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-active-bg: #472266;
+  --bs-btn-active-border-color: #472266;
+  --bs-btn-active-color: #ffffff;
+}
+
+.table thead th {
+  background-color: #5a2d82;
+  color: #ffffff;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 8px;
+  font-size: 14px;
+  color: #6b6b6b;
+  border-top: 1px solid #dddddd;
+}
